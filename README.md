@@ -1,5 +1,5 @@
 ## Author
-> Eka Prasetia
+> 🤵 Eka Prasetia
 
 <a href="https://www.ekaprasetia.com/">
   <img src="https://img.shields.io/badge/Writer-Blog-orange" alt="Blog" />
