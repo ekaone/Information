@@ -10,7 +10,7 @@
 </a>
 
 <a href="mailto:ekaone3033@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ekaone3033@gmail.com-yellow" alt="Twitter" />
+  <img src="https://img.shields.io/badge/Email-ekaone3033@gmail.com-yellow" alt="Email" />
 </a>
 
 ## Collection my App
