@@ -16,8 +16,8 @@
 ## Collection my App
 Find example all my [Scratch App](https://twolevel.net)
 
-## Communities
+## Community
 I am author for two communities in Indonesia
 - GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
-- RedwoodJS Indoensia [RW-ID](https://redwoodjs.id)
+- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
 
